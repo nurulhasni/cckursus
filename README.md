@@ -1,0 +1,2 @@
+# cckursus
+just another repository
