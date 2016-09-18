@@ -1,0 +1,98 @@
+
+Bootsnipp
+
+    About
+    Tools
+    Snippets
+    Register
+    Login
+
+"Edit personal information"
+Bootstrap 3.3.0 Snippet by hossam
+3.3.0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+body
+{
+    background-color: #1b1b1b;
+    padding-top: 40px;
+}
+.form-signin {
+    max-width: 280px;
+    padding: 15px;
+    margin:100px;
+    margin-top:20px;
+  }
+.panel-default {
+opacity: 0.8;
+/*margin-top:30px;*/
+}
+.input-group-addon
+{
+    background-color: rgb(50, 118, 177);
+    border-color: rgb(40, 94, 142);
+    color: rgb(255, 255, 255);
+}
+.form-control:focus
+{
+    background-color: rgb(50, 118, 177);
+    border-color: rgb(40, 94, 142);
+    color: rgb(255, 255, 255);
+}
+.form-signup input[type="text"],.form-signup input[type="password"] { border: 1px solid rgb(50, 118, 177); }
+.fullscreen_bg {
+    position: fixed;
+    top: 0;
+Similar snippets: See More
+
+149 0
+
+Personal Edit
+
+199 0
+
+Personal Information
+
+305 0
+
+Edit information
+
+131 0
+
+Simple Edit Login Information Form
+Get Help with Social
+Schedule and Organize your social media on one simple platform.
+Comments:
+
+    Follow @bootsnipp Tweet 
+
+Bootsnipp.com © 2015 Dan's Tools | Site Privacy policy | Featured snippets are MIT license.
